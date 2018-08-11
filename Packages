@@ -1,0 +1,19 @@
+Package: cydia-gui
+Version: 1.1.31
+Architecture: iphoneos-arm
+Maintainer: Yangcheeseb
+Depends: cy+cpu.arm64
+Replaces: cydia
+Filename: ./deb/cydia-gui_1.1.31_iphoneos-arm.deb
+Size: 1064908
+MD5sum: 4747f36ca6308c44231a86d4e8db0277
+SHA1: d3f1197ed495ccfcb6f6a0551ae822e22238a146
+SHA256: 28e73e3ae66f7c1cd24017eced376b6c0bc5152e6dd5d662818b5edbf6650903
+Section: Packaging
+Priority: required
+Description: graphical iPhone front-end for APT
+Tag: purpose::uikit, cydia::essential, role::enduser
+Author: Saurik & CoolStar & Yangcheesen & Zlab Team
+Depiction: https://yangcheesenios.github.io/cydia.html
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Name: Cydia (GUI Only)
